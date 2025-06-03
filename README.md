@@ -21,7 +21,4 @@ This project focuses on predicting housing prices using regression models based 
 - **Algorithms:** Linear Regression, Ridge, Lasso, Decision Tree Regressor, Random Forest Regressor  
 - **Visualization:** MSE plots for vectorized linear regression
 
----
-
-## Project Structure
 
